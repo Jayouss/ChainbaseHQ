@@ -1,7 +1,8 @@
 {
-  "Jayouss": ,
-  "https://x.com/Jaytrysomething": ,
-  "Just a guy from a small town, and my cat just died": ,
-  "https://raw.githubusercontent.com/Jayouss/ChainbaseHQ/main/photo_2024-08-18_17-44-55.jpg": ,
-  "https://x.com/Jaytrysomething": 
+  "name": "Jayouss",
+  "website": "https://github.com/Jayouss",
+  "description": "Just a guy from a small town, and my cat just died",
+  "logo": "https://raw.githubusercontent.com/Jayouss/ChainbaseHQ/main/photo_2024-08-18_17-44-55.jpg",
+  "twitter": "https://x.com/Jaytrysomething"
 }
+
